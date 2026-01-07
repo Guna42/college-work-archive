@@ -29,7 +29,7 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/200/000000/network.png" alt="Network" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" alt="Network" width="100"/>
 
 ### 🌐 **Networking**
 Socket Programming  
@@ -38,7 +38,7 @@ Protocol Implementations
 **15+ Labs**
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/200/000000/code.png" alt="Code" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Code" width="100"/>
 
 ### 💻 **Programming**
 Java Mastery Journey  
@@ -47,7 +47,7 @@ OOP Principles
 **40+ Programs**
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/clouds/200/000000/brain.png" alt="ML" width="100"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="ML" width="100"/>
 
 ### 🤖 **Machine Learning**
 Decision Trees  
@@ -293,6 +293,8 @@ java cnn.crc.CRC
 
 
 
+---
+
 <div align="center">
 
 ## 🎨 Code Quality Standards
@@ -366,7 +368,7 @@ graph LR
 </div>
 
 ```
-2024                                              2026
+2025 JUN                                             2026
   │                                                 │
   ├─ Week 1-6: Java Fundamentals ──────────────────┤
   │                                                 │
