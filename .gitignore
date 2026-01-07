@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv/
+
+# Java
+*.class
+*.jar
+*.war
+target/
+.classpath
+.project
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE specific
+.eclipse
+*.sublime-project
+*.sublime-workspace
+
+# Compiled binaries
+*.o
+*.so
+*.dll
+*.exe
+
+# Logs
+*.log

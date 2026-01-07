@@ -1,0 +1,12 @@
+import socket
+s=socket.socket()
+s.bind(("localhost",5050))
+s.listen()
+print("Waiting for Client...")
+c,addr=s.accept()
+f=open("data.txt","r")
+c.send(f.read().encode())
+print("File Sent Successfully")
+f.close()
+c.close()
+s.close()

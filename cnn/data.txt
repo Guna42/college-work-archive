@@ -1,0 +1,2 @@
+this is sample data for file transfer program
+hello TCP File Transfer test

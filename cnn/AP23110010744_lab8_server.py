@@ -1,0 +1,11 @@
+import socket
+s=socket.socket()
+s.bind(("localhost",8888))
+s.listen(1)
+print("Waiting for Client...")
+c,addr=s.accept()
+msg=c.recv(1024).decode()
+print("Received:",msg)
+c.send("Acknowledged by Server".encode())
+c.close()
+s.close()
